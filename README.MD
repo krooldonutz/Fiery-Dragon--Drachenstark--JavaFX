@@ -2,6 +2,9 @@
 
 FieryDragon is a Java application designed to run on macOS. This README provides detailed instructions on how to set up and run the application on your macOS system.
 
+![alt text](<docs/Screenshot 2024-08-01 at 22.54.02.png>)
+![alt text](<docs/Screenshot 2024-08-01 at 22.53.44.png>)
+![alt text](<docs/Screenshot 2024-08-01 at 22.53.15.png>)
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your macOS system:
